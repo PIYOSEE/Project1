@@ -24,14 +24,14 @@ body{
 }
 #nav{
     width: 100%;
-    padding: 20px 40px;
+    padding: 30px 40px;
     color:#fff;
     align-items:center;
     justify-content:space-between;
     display: flex;
 }
 #heading{
-    margin-top: 80px;
+    margin-top: 40px;
 }
 #heading h1{
     font-size:10vw;
@@ -39,14 +39,35 @@ body{
     font-weight: 900;
     line-height: 1;
     opacity: .7;
-    margin-left: 40px;
+    margin-left: 50px;
 }
 #heading #secondh1{
-    margin-left: 205px;
+    margin-left: 210px;
 }
 .block{
     width: fit-content;
 }
 .block h5{
     text-align: right;
+    font-size : 15px;
+    text-transform: uppercase;
+}
+#small_heading{
+    margin-top:20px;
+    padding-right: 30px;
+}
+#small_heading h5{
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 1vw;
+    margin-top:.5vw;
+}
+#herofooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#herofooter a{
+    color: #fff;
+    text-transform: uppercase;
 }
