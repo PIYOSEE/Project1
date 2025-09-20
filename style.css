@@ -119,4 +119,35 @@ body{
 #about{
     width: 100%;
     background-color: black;
+    padding: 10vw 15vw;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:50px;
+    padding-left: 30vw;
+}
+#about img{
+    width: 200px;
+}
+#textabout{
+    width: 30rem;
+    
+}
+#textabout h5{
+    text-transform: uppercase;
+    opacity: .6;
+    margin-bottom: 10px;
+}
+#textabout p{
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+#textabout a{
+    padding: 12px 22px;
+    border: 1px solid #fff;
+    border-radius: 100px;
+    text-decoration: none;
+    color: #fff;
+    font-size:12px;
 }
