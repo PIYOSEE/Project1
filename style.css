@@ -151,3 +151,18 @@ body{
     color: #fff;
     font-size:12px;
 }
+#subcribe{
+    background-color: black;
+    color: #fff;
+    padding: 20px 30px;
+    padding-bottom: 7vw;
+}
+#subcribe h5{
+    text-transform: uppercase;
+    opacity: .7;
+}
+#subcribe h3{
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 10px;
+}
